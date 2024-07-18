@@ -37,3 +37,15 @@ Welcome to the Yappr project! This application replicates many of the core funct
 - [Prisma](https://www.prisma.io/)
 - [NeonDB](https://neon.tech/)
 - [Clerk](https://clerk.dev/)
+
+## Screenshots
+![Screenshot 1](https://github.com/user-attachments/assets/c53405f3-6314-452f-b182-bf971a3b98d8)
+![Screenshot 2](https://github.com/user-attachments/assets/7b695201-50c3-48bc-ab4d-d7937873acdc)
+![Screenshot 3](https://github.com/user-attachments/assets/afc50350-5e84-4ee0-abc5-d78eee3ebca6)
+![Screenshot 4](https://github.com/user-attachments/assets/b8baf83f-026f-46ea-9586-7f174d0d8db7)
+![Screenshot 5](https://github.com/user-attachments/assets/3fcf8930-28b5-40f7-988a-e9ba08764375)
+![Screenshot 6](https://github.com/user-attachments/assets/18af132b-21eb-451d-bab1-0c842d27b7f2)
+![Screenshot 7](https://github.com/user-attachments/assets/0fa3b1b2-c4be-4771-9232-ba9bdb8e4332)
+![Screenshot 8](https://github.com/user-attachments/assets/e6c3a437-6fa4-4d95-a7db-c5b45cc21235)
+
+
